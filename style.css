@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&family=Jockey+One&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: black;
+    color: #FFFFFF;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Jockey One", sans-serif;
+    color: #66F0F9;
+    font-size: 50px;
+}
+
+p {
+    font-family: "Jaldi", sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+strong {
+    color: #66F0F9;
+}
+
+img {
+    height: 360px;
+    width: 600px;
+}
+
+section {
+    padding: 46px 41px 0px 46px;
+    border: 40px;
+}
+
+div {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    color: #66F0F9;
+    font-size: 16px;
+}
+
+li {
+    text-align: center;
+    font-size: 20px;
+}
+
+.botao-instagram {
+    background-color: #66F0F9;
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    text-decoration: none;
+    border-radius: 15px;
+    width: 200px;
+    height: 25px;
+}
+
+.divisao-botao {
+    display: flex;
+    justify-content:flex-start;
+    padding: 0px 0px 0px 745px;
+}
+
+a {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    font-size: 16px;
+}
